@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ToDoList3</string>
+    <string name="hint">hint</string>
+</resources>
